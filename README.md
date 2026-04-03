@@ -26,6 +26,7 @@ open an issue, or a pull request, to add more projects, or to update the informa
 - [Mozilla Foundation](#mozilla-foundation)
 - [Signal](#signal)
 - [Nextcloud](#nextcloud)
+- [OBS Studio](#obs-studio)
 
 #### OpenSSL
 
