@@ -27,6 +27,10 @@ open an issue, or a pull request, to add more projects, or to update the informa
 - [Signal](#signal)
 - [Nextcloud](#nextcloud)
 - [OBS Studio](#obs-studio)
+- [Homebrew](#homebrew)
+- [Oh My Zsh](#oh-my-zsh)
+- [NumPy](#numpy)
+- [Matplotlib](#matplotlib)
 
 #### OpenSSL
 
@@ -105,3 +109,27 @@ An open-source file sync and sharing software that allows users to create their 
 A software for video recording and live streaming.
 
 - https://obsproject.com/
+
+#### Homebrew
+
+Package manager for mac and linux.
+
+- https://github.com/Homebrew
+
+#### Oh My Zsh
+
+Configuration management framework for Zsh, a shell for unix-like OSs.
+
+- https://github.com/ohmyzsh
+
+#### NumPy
+
+A package for scientific computing with Python.
+
+- https://github.com/numpy
+
+#### Matplotlib
+
+A plotting library for Python and its numerical mathematics extension NumPy.
+
+- https://github.com/matplotlib
