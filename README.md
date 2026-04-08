@@ -31,6 +31,8 @@ open an issue, or a pull request, to add more projects, or to update the informa
 - [Oh My Zsh](#oh-my-zsh)
 - [NumPy](#numpy)
 - [Matplotlib](#matplotlib)
+- [Prettier](#prettier)
+- [Vue](#vue)
 
 #### OpenSSL
 
@@ -133,3 +135,15 @@ A package for scientific computing with Python.
 A plotting library for Python and its numerical mathematics extension NumPy.
 
 - https://github.com/matplotlib
+
+#### Prettier
+
+Opinionated code formatter for JavaScript and other languages.
+
+- https://github.com/prettier
+
+#### Vue
+
+Friendly JavaScript framework.
+
+- https://github.com/vuejs/vue
