@@ -33,6 +33,7 @@ open an issue, or a pull request, to add more projects, or to update the informa
 - [Matplotlib](#matplotlib)
 - [Prettier](#prettier)
 - [Vue](#vue)
+- [Expo](#expo)
 
 #### OpenSSL
 
@@ -147,3 +148,9 @@ Opinionated code formatter for JavaScript and other languages.
 Friendly JavaScript framework.
 
 - https://github.com/vuejs/vue
+
+#### Expo
+
+Expo is a free and open-source platform for making universal native apps with React that run on Android, iOS, and the web.
+
+- https://github.com/expo
